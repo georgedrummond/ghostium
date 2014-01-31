@@ -19,6 +19,10 @@ pre {
   margin: 0 0 30px 0;
 }
 
+p + p {
+  text-indent: 50px;
+}
+
 hr {
   width: 20%;
   border: 1px solid $line-breaks-color;
